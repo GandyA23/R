@@ -1,4 +1,7 @@
 # Gandy Esau Avila Estrada
+# Asignación de valores
+
+# <- operador de asignación 
 
 # A la variable a se le asigna el valor de 5
 a<-5
