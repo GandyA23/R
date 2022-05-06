@@ -1,7 +1,8 @@
 # Gandy Esau Avila Estrada
-# Asignación de valores
+# AsignaciÃ³n de valores
+# Adaptandose al entorno de RStudio
 
-# <- operador de asignación 
+# <- operador de asignaciÃ³n 
 
 # A la variable a se le asigna el valor de 5
 a<-5

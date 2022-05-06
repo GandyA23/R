@@ -1,23 +1,28 @@
 # Gandy Esau Avila Estrada
-# Vectores num閞icos
+# Vectores num茅ricos
 
-# Se crea el vector x con la funci髇 c (concatenar)
+# Se crea el vector x con la funci贸n c (concatenar)
 x <- c(1, 2, 3)
 
+# Imprime el valor de la variable x en consola
 x
 
-# Se crea el vector y con la funci髇 c (concatenar)
+# Se crea el vector y con la funci贸n c (concatenar)
 y <- c(4, 5, 6)
 
+# Imprime el valor de la variable y en consola
 y
 
-# Imprime la concatenaci髇 de los vectores x, y
+# Imprime la concatenaci贸n de los vectores x, y
 c(x, y)
 
 # Otra manera de asignar valores a variables
+# Se asigna el vector num茅rico a la variable z
+# Una l铆nea de c贸digo parecida es: z <- c(7, 8, 9)
 assign("z", c(7, 8, 9))
 
+# Imprime el valor de la variable z en consola
 z
 
-# Imprime la concatenaci髇 de los vectores x, y, z
+# Imprime la concatenaci贸n de los vectores x, y, z
 c(x, y, z)

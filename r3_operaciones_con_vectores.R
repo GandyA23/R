@@ -1,7 +1,7 @@
 # Gandy Esau Avila Estrada
 # Operaciones con vectores
 
-# Es posible hacer operaciones b·sicas en la consola
+# Es posible hacer operaciones b√°sicas en la consola
 2*3
 50*40
 40/3
@@ -16,23 +16,23 @@ c
 x <- c(1, 2, 3)
 y <- c(4, 5, 6)
 
-# ImpresiÛn de los resultados de las operaciones b·sicas
+# Impresi√≥n de los resultados de las operaciones b√°sicas
 x+y
 x-y
 x*y
 x/y
 
-# La funciÛn length ayuda a saber la longitud de un vector
+# La funci√≥n length ayuda a saber la longitud de un vector
 length(x)
 length(y)
 
 # Cuando los dos vectores tienen diferente longitud y se realiza 
-# cualquier operaciÛn, R reciclar· los valores del vector menor 
+# cualquier operaci√≥n, R reciclar√° los valores del vector con longitud menor 
 # hasta que se encuentren en la misma longitud.
 x <- c(7, 8, 22)
 y <- c(1, 2, 3, 4, 5, 6, 7)
 
-# Cuando realice la operaciÛn, entonces 
+# Cuando realice la operaci√≥n, entonces 
 # x <- c(7, 8, 22, 7, 8, 22, 7)
 # y <- c(1, 2, 3, 4, 5, 6, 7)
 x+y
